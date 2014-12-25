@@ -1,5 +1,8 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
@@ -12,6 +15,7 @@
 		"EJS",
 		"Emmet",
 		"HTML5",
+		"IMESupport",
 		"jQuery",
 		"OmniMarkupPreviewer",
 		"Package Control",
